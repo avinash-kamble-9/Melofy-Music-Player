@@ -16,12 +16,6 @@ Melofy is a beautifully designed, responsive **music player UI** built entirely 
 - 💻 Clean, well-organized HTML & CSS code
 - ⚙️ Easy to customize and extend with JS or backend in the future
 
-## 📂 Project Structure
-Melofy-Music-Player/
-├── index.html # Main HTML file
-├── style.css # All CSS styles
-└── assets/ # Optional: images, icons, fonts
-
 # 🛠️ Tech Stack
 
 - **HTML5** – for layout and semantic structure
