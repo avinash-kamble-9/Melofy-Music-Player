@@ -23,8 +23,18 @@ Melofy is a beautifully designed, responsive **music player UI** built entirely 
   - Flexbox
   - Hover Effects
 
-🌐 Live Demo
-    Coming Soon !
+<!-- 🌐 Live Demo -->
+<section style="text-align: center; padding: 2rem;">
+  <h2 style="font-size: 1.8rem;">🌐 Live Demo</h2>
+  <p style="font-size: 1.1rem; margin: 1rem 0;">
+    ▶️ <a href="https://youtu.be/6gBOnBNa4Xw?si=pOnsr1mMW2xPSAAg" target="_blank" style="color: #007bff; text-decoration: underline;">
+      Watch the Demo on YouTube
+    </a>
+  </p>
+  <p style="color: #555;">Experience the UI in action through the video walkthrough.</p>
+</section>
+
+<hr>
 
 🧠 Learning Objectives
  This project was created to strengthen the following frontend development skills:
