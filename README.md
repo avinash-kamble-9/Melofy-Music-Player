@@ -25,7 +25,7 @@ Melofy is a beautifully designed, responsive **music player UI** built entirely 
   - Transitions & Hover Effects
 
 🌐 Live Demo
-    Coming Soon  
+    Coming Soon !
 
 🧠 Learning Objectives
  This project was created to strengthen the following frontend development skills:
